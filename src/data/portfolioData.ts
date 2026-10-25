@@ -688,7 +688,7 @@ export const SOCIAL_LINKS = [
   { label: "WhatsApp", href: "https://wa.me/8801629851155", handle: "01629851155", note: "DIRECT CHAT & CALLS" },
   { label: "Gmail", href: "mailto:zeehadhaque@gmail.com", handle: "zeehadhaque@gmail.com", note: "OFFICIAL INBOX" },
   { label: "YouTube", href: "https://youtube.com/@zeehadhaque", handle: "@zeehadhaque", note: "OFFICIAL FILMS" },
-  { label: "Instagram", href: "https://instagram.com/zeehadhaque", handle: "@zeehadhaque", note: "VISUAL STILLS" },
+  { label: "Instagram", href: "https://instagram.com/zeehadhaque", handle: "@heyyfalgun", note: "VISUAL STILLS" },
   { label: "Facebook", href: "https://facebook.com/zeehadhaque", handle: "zeehadhaque", note: "UPDATES" },
   { label: "LinkedIn", href: "https://linkedin.com/in/zeehadhaque", handle: "in/zeehadhaque", note: "NETWORK" }
 ];
